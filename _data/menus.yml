@@ -1,1 +1,4 @@
-{}
+main:
+  - title: Blog
+    url: /blog/
+    identifier: blog
